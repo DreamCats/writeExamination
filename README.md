@@ -16,3 +16,4 @@
 5. [最长公共前缀](./LongestCommonPrefix)
 6. [有效的括号](./IsValid)
 7. [合并两个有序链表](./MergeTwoLists)
+8. [删除排序数组中的重复项](./RemoveDuplicates)
