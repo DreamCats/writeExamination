@@ -18,6 +18,7 @@
 7. [合并两个有序链表](./MergeTwoLists)
 8. [删除排序数组中的重复项](./RemoveDuplicates)
 9. [移除元素](./RemoveElement)
+10. [实现StrStr](./StrStr)
 
 
 
