@@ -2,7 +2,6 @@
 
 ### 1. java和python语言编写
 
-
 ### 2. [Leetcode](https://leetcode-cn.com/)
 
 ### 3. 题目
