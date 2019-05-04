@@ -18,6 +18,7 @@
 8. [删除排序数组中的重复项](./RemoveDuplicates)
 9. [移除元素](./RemoveElement)
 10. [实现StrStr](./StrStr)
+11. [搜索插入位置](./SearchInsert)
 
 
 
