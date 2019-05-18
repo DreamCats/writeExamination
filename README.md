@@ -20,6 +20,7 @@
 10. [实现StrStr](./StrStr)
 11. [搜索插入位置](./SearchInsert)
 12. [报数](./CountAndSay)
+13. [最大子序和](./MaxSubArray)
 
 
 
