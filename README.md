@@ -2,7 +2,7 @@
 
 ## LeetCode 
 
-### 2. [Leetcode](https://leetcode-cn.com/)
+### 1. [Leetcode](https://leetcode-cn.com/)
 
 #### 难度：easy
 
