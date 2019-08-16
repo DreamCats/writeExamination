@@ -2,7 +2,7 @@
 
 ## LeetCode 
 
-### 1. [Leetcode](https://leetcode-cn.com/)
+### [Leetcode](https://leetcode-cn.com/)
 
 #### 难度：easy
 
@@ -24,7 +24,7 @@
 
 
 ## 剑指Offer
-
+### [剑指Offer](https://www.nowcoder.com/ta/coding-interviews)
 
 
 
