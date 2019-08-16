@@ -27,4 +27,8 @@
 ### [剑指Offer](https://www.nowcoder.com/ta/coding-interviews)
 
 
+|                   题目                   |             语言             |
+| :--------------------------------------: | :--------------------------: |
+|     [单例模式](./SwordOffer/T2.java)     | [java](./SwordOffer/T2.java) |
+| [数组中重复的数字](./SwordOffer/T3.java) | [java](./SwordOffer/T3.java) |
 
