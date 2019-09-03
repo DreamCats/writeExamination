@@ -31,4 +31,25 @@
 | :--------------------------------------: | :--------------------------: |
 |     [单例模式](./SwordOffer/T2.java)     | [java](./SwordOffer/T2.java) |
 | [数组中重复的数字](./SwordOffer/T3.java) | [java](./SwordOffer/T3.java) |
+| [二维数组中的查找](./SwordOffer/T4.java) | [java](./SwordOffer/T4.java) |
+| [替换空格](./SwordOffer/T5.java) | [java](./SwordOffer/T5.java) |
+| [从尾到头打印链表](./SwordOffer/T6.java) | [java](./SwordOffer/T6.java) |
+| [重建二叉树](./SwordOffer/T7.java) | [java](./SwordOffer/T7.java) |
+| [用两个栈实现一个队列](./SwordOffer/T8.java) | [java](./SwordOffer/T8.java) |
+| [斐波那契数列](./SwordOffer/T9.java) | [java](./SwordOffer/T9.java) |
+| [青蛙跳台阶问题](./SwordOffer/T10.java) | [java](./SwordOffer/T10.java) |
+| [变态青蛙跳台阶问题](./SwordOffer/T11.java) | [java](./SwordOffer/T11.java) |
+| [旋转数组的最小数字](./SwordOffer/T12.java) | [java](./SwordOffer/T12.java) |
+| [矩阵中的路径](./SwordOffer/T13.java) | [java](./SwordOffer/T13.java) |
+| [机器人的运动范围](./SwordOffer/T14.java) | [java](./SwordOffer/T14.java) |
+| [剪绳子](./SwordOffer/T15.java) | [java](./SwordOffer/T15.java) |
+| [二进制中1的个数](./SwordOffer/T16.java) | [java](./SwordOffer/T16.java) |
+| [数值的整数次方](./SwordOffer/T17.java) | [java](./SwordOffer/T17.java) |
+| [打印从1到最大的n位数](./SwordOffer/T18.java) | [java](./SwordOffer/T18.java) |
+| [删除链表中的节点O](./SwordOffer/T19.java) | [java](./SwordOffer/T19.java) |
+| [删除链表中重复的节点](./SwordOffer/T20.java) | [java](./SwordOffer/T20.java) |
+| [正则表达式](./SwordOffer/T21.java) | [java](./SwordOffer/T21.java) |
+| [表示数值的字符串](./SwordOffer/T22.java) | [java](./SwordOffer/T22.java) |
+| [调整数组顺序使奇数位于偶数前面](./SwordOffer/T23.java) | [java](./SwordOffer/T23.java) |
+| [链表中倒数第k个节点](./SwordOffer/T24.java) | [java](./SwordOffer/T24.java) |
 
