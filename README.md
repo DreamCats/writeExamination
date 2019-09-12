@@ -52,4 +52,13 @@
 | [表示数值的字符串](./SwordOffer/T22.java) | [java](./SwordOffer/T22.java) |
 | [调整数组顺序使奇数位于偶数前面](./SwordOffer/T23.java) | [java](./SwordOffer/T23.java) |
 | [链表中倒数第k个节点](./SwordOffer/T24.java) | [java](./SwordOffer/T24.java) |
+| [链表中环的入口节点](./SwordOffer/T25.java) | [java](./SwordOffer/T25.java) |
+| [反转链表](./SwordOffer/T26.java) | [java](./SwordOffer/T26.java) |
+| [合并两个排序的链表](./SwordOffer/T27.java) | [java](./SwordOffer/T27.java) |
+| [树的子结构](./SwordOffer/T28.java) | [java](./SwordOffer/T28.java) |
+| [树的镜像](./SwordOffer/T29.java) | [java](./SwordOffer/T29.java) |
+| [对称的二叉树](./SwordOffer/T30.java) | [java](./SwordOffer/T30.java) |
+| [顺时针打印矩阵](./SwordOffer/T31.java) | [java](./SwordOffer/T31.java) |
+| [包含min函数的栈](./SwordOffer/T32.java) | [java](./SwordOffer/T32.java) |
+| [栈的压入、弹出序列](./SwordOffer/T33.java) | [java](./SwordOffer/T33.java) |
 
