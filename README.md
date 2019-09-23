@@ -61,4 +61,13 @@
 | [顺时针打印矩阵](./SwordOffer/T31.java) | [java](./SwordOffer/T31.java) |
 | [包含min函数的栈](./SwordOffer/T32.java) | [java](./SwordOffer/T32.java) |
 | [栈的压入、弹出序列](./SwordOffer/T33.java) | [java](./SwordOffer/T33.java) |
+| [从上到下打印二叉树](./SwordOffer/T34.java) | [java](./SwordOffer/T34.java) |
+| [二叉搜索树的后序遍历序列](./SwordOffer/T35.java) | [java](./SwordOffer/T35.java) |
+| [二叉树中和为某一值的路径](./SwordOffer/T36.java) | [java](./SwordOffer/T36.java) |
+| [复杂链表的复制](./SwordOffer/T37.java) | [java](./SwordOffer/T37.java) |
+| [二叉搜索树与双向链表](./SwordOffer/T38.java) | [java](./SwordOffer/T38.java) |
+| [序列化二叉树](./SwordOffer/T39.java) | [java](./SwordOffer/T39.java) |
+| [字符串的排列](./SwordOffer/T40.java) | [java](./SwordOffer/T40.java) |
+| [数组中出现次数超过一半的数字](./SwordOffer/T41.java) | [java](./SwordOffer/T41.java) |
+| [最小的k个数](./SwordOffer/T42.java) | [java](./SwordOffer/T42.java) |
 
