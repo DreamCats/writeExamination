@@ -76,4 +76,22 @@
 | [礼物的最大价值](./SwordOffer/T47.java) | [java](./SwordOffer/T47.java) |
 | [最长不含重复字符的子字符串](./SwordOffer/T48.java) | [java](./SwordOffer/T48.java) |
 | [丑数](./SwordOffer/T49.java) | [java](./SwordOffer/T49.java) |
+| [第一个只出现一次的字符](./SwordOffer/T50.java) | [java](./SwordOffer/T50.java) |
+| [数组中的逆序对](./SwordOffer/T51.java) | [java](./SwordOffer/T51.java) |
+| [两个链表的第一个公共节点](./SwordOffer/T52.java) | [java](./SwordOffer/T52.java) |
+| [在排序数组中查找数字](./SwordOffer/T53.java) | [java](./SwordOffer/T53.java) |
+| [二叉搜索树的第K大节点](./SwordOffer/T54.java) | [java](./SwordOffer/T54.java) |
+| [二叉树的深度](./SwordOffer/T55.java) | [java](./SwordOffer/T55.java) |
+| [数组中只出现一次的两个数字](./SwordOffer/T56.java) | [java](./SwordOffer/T56.java) |
+| [和为s的数字](./SwordOffer/T57.java) | [java](./SwordOffer/T57.java) |
+| [翻转字符串](./SwordOffer/T58.java) | [java](./SwordOffer/T58.java) |
+| [滑动窗口的最大值](./SwordOffer/T59.java) | [java](./SwordOffer/T59.java) |
+| [n个骰子的点数](./SwordOffer/T60.java) | [java](./SwordOffer/T60.java) |
+| [扑克牌中的顺子](./SwordOffer/T61.java) | [java](./SwordOffer/T61.java) |
+| [圆圈中最后剩下的数字](./SwordOffer/T62.java) | [java](./SwordOffer/T62.java) |
+| [股票的最大利润](./SwordOffer/T63.java) | [java](./SwordOffer/T63.java) |
+| [求1+2+...+n](./SwordOffer/T64.java) | [java](./SwordOffer/T64.java) |
+| [不用加减乘除做加法](./SwordOffer/T65.java) | [java](./SwordOffer/T65.java) |
+
+
 
