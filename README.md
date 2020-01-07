@@ -16,8 +16,8 @@
 
 |                   序号                   |             题目             | 语言 | 类型 |
 | :--------------------------------------: | :--------------------------: | ---------------------------------------- | ---------------------------------------- |
-|    1    | [二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [java](./SwordOffer/src/T1.java) | 数组 |
-| [数组中重复的数字](./SwordOffer/T3.java) |  | [java](./SwordOffer/T3.java) |  |
+| 1 | [二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [java](./SwordOffer/src/T1.java) | 数组 |
+| 2 | [替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [java](./SwordOffer/src/T2.java) | 字符串 |
 | [二维数组中的查找](./SwordOffer/T4.java) |  | [java](./SwordOffer/T4.java) |  |
 | [替换空格](./SwordOffer/T5.java) |  | [java](./SwordOffer/T5.java) |  |
 | [从尾到头打印链表](./SwordOffer/T6.java) |  | [java](./SwordOffer/T6.java) |  |
