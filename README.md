@@ -19,7 +19,7 @@
 | 1 | [二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [java](./SwordOffer/src/T1.java) | 数组 |
 | 2 | [替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [java](./SwordOffer/src/T2.java) | 字符串 |
 | 3 | [从尾到头打印链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T3.java) | 链表 |
-| [替换空格](./SwordOffer/T5.java) |  | [java](./SwordOffer/T5.java) |  |
+| 4 | [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T4.java) | 树 |
 | [从尾到头打印链表](./SwordOffer/T6.java) |  | [java](./SwordOffer/T6.java) |  |
 | [重建二叉树](./SwordOffer/T7.java) |  | [java](./SwordOffer/T7.java) |  |
 | [用两个栈实现一个队列](./SwordOffer/T8.java) |  | [java](./SwordOffer/T8.java) |  |
