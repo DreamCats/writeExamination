@@ -21,7 +21,7 @@
 | 3 | [从尾到头打印链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T3.java) | 链表 |
 | 4 | [重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T4.java) | 树 |
 | 5 | [用两个栈实现一个队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T5.java) | 栈队列 |
-| [重建二叉树](./SwordOffer/T7.java) |  | [java](./SwordOffer/T7.java) |  |
+| 6 | [旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T6.java) | 查找 |
 | [用两个栈实现一个队列](./SwordOffer/T8.java) |  | [java](./SwordOffer/T8.java) |  |
 | [斐波那契数列 & 青蛙跳台阶问题](./SwordOffer/T10.java) |  | [java](./SwordOffer/T10.java) |  |
 | [旋转数组的最小数字](./SwordOffer/T11.java) |  | [java](./SwordOffer/T11.java) |  |
