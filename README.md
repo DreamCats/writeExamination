@@ -27,7 +27,7 @@
 | 9 | [变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tqId=11162&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T9.java)) | 贪心 |
 | 10 | [矩形覆盖](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&tqId=11163&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T10.java) | 递归 |
 | 11 | [二进制1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tqId=11164&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T11.java) | 二进制 |
-| [剪绳子](./SwordOffer/T14.java) |  | [java](./SwordOffer/T14.java) |  |
+| 12 | [数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tqId=11165&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T12.java) |数学 |
 | [二进制中1的个数](./SwordOffer/T15.java) |  | [java](./SwordOffer/T15.java) |  |
 | [数值的整数次方](./SwordOffer/T16.java) |  | [java](./SwordOffer/T16.java) |  |
 | [打印从1到最大的n位数](./SwordOffer/T17.java) |  | [java](./SwordOffer/T17.java) |  |
