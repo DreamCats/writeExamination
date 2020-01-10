@@ -29,7 +29,7 @@
 | 11 | [二进制1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tqId=11164&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T11.java) | 二进制 |
 | 12 | [数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tqId=11165&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T12.java) |数学 |
 | 13 | [调整数组顺序使奇数位于偶数前面](https://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&tqId=11166&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T13.java) | 数组 |
-| [数值的整数次方](./SwordOffer/T16.java) |  | [java](./SwordOffer/T16.java) |  |
+| 14 | [链表中倒数第k个结点](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T14.java) | 链表 |
 | [打印从1到最大的n位数](./SwordOffer/T17.java) |  | [java](./SwordOffer/T17.java) |  |
 | [删除链表中的节点O](./SwordOffer/T18.java) |  | [java](./SwordOffer/T18.java) |  |
 | [正则表达式](./SwordOffer/19.java) |  | [java](./SwordOffer/19.java) |  |
