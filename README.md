@@ -35,7 +35,7 @@
 | 17 | [树的子结构](https://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=13&tqId=11170&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T17.java) | 树 |
 | 18 | [二叉树的镜像](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tqId=11171&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T18.java) | 树 |
 | 19 | [顺时针打印矩阵](/https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tqId=11172&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T19.java) | 数组 |
-| [链表中倒数第k个节点](./SwordOffer/T22.java) |  | [java](./SwordOffer/T22.java) |  |
+| 20 | [包含min函数的栈](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tqId=11173&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T20.java) | 栈 |
 | [链表中环的入口节点](./SwordOffer/T23.java) |  | [java](./SwordOffer/T23.java) |  |
 | [反转链表](./SwordOffer/T24.java) |  | [java](./SwordOffer/T24.java) |  |
 | [合并两个排序的链表](./SwordOffer/T25.java) |  | [java](./SwordOffer/T25.java) |  |
