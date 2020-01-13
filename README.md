@@ -37,7 +37,7 @@
 | 19 | [顺时针打印矩阵](/https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&tqId=11172&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T19.java) | 数组 |
 | 20 | [包含min函数的栈](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&tqId=11173&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T20.java) | 栈 |
 | 21 | [栈的压入、弹出序列](https://www.nowcoder.com/practice/d77d11405cc7470d82554cb392585106?tpId=13&tqId=11174&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T21.java) | 栈 |
-| [反转链表](./SwordOffer/T24.java) |  | [java](./SwordOffer/T24.java) |  |
+| 22 | [从上往下打印二叉树](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&tqId=11175&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T22.java) | 队列/树 |
 | [合并两个排序的链表](./SwordOffer/T25.java) |  | [java](./SwordOffer/T25.java) |  |
 | [树的子结构](./SwordOffer/T26.java) |  | [java](./SwordOffer/T26.java) |  |
 | [树的镜像](./SwordOffer/T27.java) |  | [java](./SwordOffer/T27.java) |  |
