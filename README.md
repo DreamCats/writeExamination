@@ -46,7 +46,7 @@
 | 28 | [数组中出现次数超过一半的数字](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&tqId=11181&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T28.java) | 数组 |
 | 29 | [最小的k个数](https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=13&tqId=11182&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T29.java) | 数组 |
 | 30 | [连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&tqId=11183&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T30.java) | 数组 |
-| [二叉搜索树的后序遍历序列](./SwordOffer/T33.java) |  | [java](./SwordOffer/T33.java) |  |
+| 31 | [整数中1出现的次数](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&tqId=11184&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T31.java) | 查找 |
 | [二叉树中和为某一值的路径](./SwordOffer/T34.java) |  | [java](./SwordOffer/T34.java) |  |
 | [复杂链表的复制](./SwordOffer/T35.java) |  | [java](./SwordOffer/T35.java) |  |
 | [二叉搜索树与双向链表](./SwordOffer/T36.java) |  | [java](./SwordOffer/T36.java) |  |
