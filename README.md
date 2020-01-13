@@ -42,7 +42,7 @@
 | 24 | [二叉树中和为某一值的路径](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T24.java) | 树 |
 | 25 | [复杂链表的复制](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&tqId=11178&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T25.java) | 链表 |
 | 26 | [二叉搜索树与双向链表](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T26.java) | 链表/树 |
-| [顺时针打印矩阵](./SwordOffer/T29.java) |  | [java](./SwordOffer/T29.java) |  |
+| 27 | [字符串的排列](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&tqId=11180&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T27.java) | 字符串 |
 | [包含min函数的栈](./SwordOffer/T30.java) |  | [java](./SwordOffer/T30.java) |  |
 | [栈的压入、弹出序列](./SwordOffer/T31.java) |  | [java](./SwordOffer/T31.java) |  |
 | [从上到下打印二叉树](./SwordOffer/T32.java) |  | [java](./SwordOffer/T32.java) |  |
