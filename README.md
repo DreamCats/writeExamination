@@ -61,7 +61,7 @@
 | 43 | [左旋转字符串](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&tqId=11196&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T43.java) | 字符串 |
 | 44 | [翻转单词顺序列](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&tqId=11197&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T44.java) | 字符串 |
 | 45 | [扑克牌顺序](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tqId=11198&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T45.java) | 字符串 |
-| [最长不含重复字符的子字符串](./SwordOffer/T48.java) |  | [java](./SwordOffer/T48.java) |  |
+| 46 | [孩子们的游戏](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tqId=11199&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T46.java) | 数学 |
 | [丑数](./SwordOffer/T49.java) |  | [java](./SwordOffer/T49.java) |  |
 | [第一个只出现一次的字符](./SwordOffer/T50.java) |  | [java](./SwordOffer/T50.java) |  |
 | [数组中的逆序对](./SwordOffer/T51.java) |  | [java](./SwordOffer/T51.java) |  |
