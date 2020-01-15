@@ -54,7 +54,7 @@
 | 36 | [两个链表的第一个公共结点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tqId=11189&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T36.java) | 链表 |
 | 37 | [数字在排序数组中出现的次数](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&tqId=11190&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T37.java) | 数组 |
 | 38 | [二叉树的深度](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tqId=11191&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T38.java) | 树 |
-| [数据流中的中位数](./SwordOffer/T41.java) |  | [java](./SwordOffer/T41.java) |  |
+| 39 | [平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tqId=11192&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T39.java) | 树 |
 | [连续子数组的最大和](./SwordOffer/T42.java) |  | [java](./SwordOffer/T42.java) |  |
 | [1~n整数中1出现的次数](./SwordOffer/T43.java) |  | [java](./SwordOffer/T43.java) |  |
 | [数字序列中某一位的数字](./SwordOffer/T44.java) |  | [java](./SwordOffer/T44.java) |  |
