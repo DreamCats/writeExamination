@@ -57,7 +57,7 @@
 | 39 | [平衡二叉树](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&tqId=11192&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T39.java) | 树 |
 | 40 | [数组中只出现一次的数字](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T40.java) | 数组 |
 | 41 | [和为S的连续正数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T41.java) |  |
-| [数字序列中某一位的数字](./SwordOffer/T44.java) |  | [java](./SwordOffer/T44.java) |  |
+| 42 | [和为S的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tqId=11195&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T42.java) |  |
 | [把数组排成最小的数](./SwordOffer/T45.java) |  | [java](./SwordOffer/T45.java) |  |
 | [把数字翻译成字符串](./SwordOffer/T46.java) |  | [java](./SwordOffer/T46.java) |  |
 | [礼物的最大价值](./SwordOffer/T47.java) |  | [java](./SwordOffer/T47.java) |  |
