@@ -63,7 +63,7 @@
 | 45 | [扑克牌顺序](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&tqId=11198&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T45.java) | 字符串 |
 | 46 | [孩子们的游戏](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tqId=11199&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T46.java) | 数学 |
 | 47 | [求1+2+3+...+n](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tqId=11200&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T47.java) | 进制转换 |
-| [第一个只出现一次的字符](./SwordOffer/T50.java) |  | [java](./SwordOffer/T50.java) |  |
+| 48 |  | [java](./SwordOffer/T50.java) |  |
 | [数组中的逆序对](./SwordOffer/T51.java) |  | [java](./SwordOffer/T51.java) |  |
 | [两个链表的第一个公共节点](./SwordOffer/T52.java) |  | [java](./SwordOffer/T52.java) |  |
 | [在排序数组中查找数字](./SwordOffer/T53.java) |  | [java](./SwordOffer/T53.java) |  |
