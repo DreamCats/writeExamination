@@ -50,7 +50,7 @@
 | 32 | [把数组排成最小的数](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&tqId=11185&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T32.java) | 数组 |
 | 33 | [丑数](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&tqId=11186&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T33.java) | 穷举 |
 | 34 | [第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tqId=11187&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T34.java) |  |
-| [序列化二叉树](./SwordOffer/T37.java) |  | [java](./SwordOffer/T37.java) |  |
+| 35 | [数组中的逆序对](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tqId=11188&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T35.java) | 数组 |
 | [字符串的排列](./SwordOffer/T38.java) |  | [java](./SwordOffer/T38.java) |  |
 | [数组中出现次数超过一半的数字](./SwordOffer/T39.java) |      | [java](./SwordOffer/T39.java) |  |
 | [最小的k个数](./SwordOffer/T40.java) |  | [java](./SwordOffer/T40.java) |  |
