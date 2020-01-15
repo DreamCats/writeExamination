@@ -52,7 +52,7 @@
 | 34 | [第一个只出现一次的字符](https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tqId=11187&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T34.java) |  |
 | 35 | [数组中的逆序对](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tqId=11188&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T35.java) | 数组 |
 | 36 | [两个链表的第一个公共结点](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&tqId=11189&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T36.java) | 链表 |
-| [数组中出现次数超过一半的数字](./SwordOffer/T39.java) |      | [java](./SwordOffer/T39.java) |  |
+| 37 | [数字在排序数组中出现的次数](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&tqId=11190&tPage=2&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T37.java) | 数组 |
 | [最小的k个数](./SwordOffer/T40.java) |  | [java](./SwordOffer/T40.java) |  |
 | [数据流中的中位数](./SwordOffer/T41.java) |  | [java](./SwordOffer/T41.java) |  |
 | [连续子数组的最大和](./SwordOffer/T42.java) |  | [java](./SwordOffer/T42.java) |  |
