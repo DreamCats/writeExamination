@@ -72,7 +72,7 @@
 | 54 | [字符流中第一个不重复的字符](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&tqId=11207&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T54.java) | 字符串 |
 | 55 | [链表中环的入口结点](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tqId=11208&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T55.java) | 链表 |
 | 56 | [删除链表中重复的结点](https://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&tqId=11209&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T56.java) | 链表 |
-| [滑动窗口的最大值](./SwordOffer/T59.java) |  | [java](./SwordOffer/T59.java) |  |
+| 57 | [二叉树的下一个结点](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&tqId=11210&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T57.java) | 树 |
 | [n个骰子的点数](./SwordOffer/T60.java) |  | [java](./SwordOffer/T60.java) |  |
 | [扑克牌中的顺子](./SwordOffer/T61.java) |  | [java](./SwordOffer/T61.java) |  |
 | [圆圈中最后剩下的数字](./SwordOffer/T62.java) |  | [java](./SwordOffer/T62.java) |  |
