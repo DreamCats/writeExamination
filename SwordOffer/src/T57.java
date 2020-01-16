@@ -11,6 +11,22 @@
  */
 public class T57 {
     public TreeLinkNode GetNext(TreeLinkNode pNode) {
-
+        if (null == pNode) {
+            return null;
+        }
+        if (null != pNode.right) {
+            pNode = pNode.right;
+            while (null != pNode.left) {
+                pNode = pNode.left;
+            }
+            return pNode;
+        }
+        while (null != pNode.next) {
+            if (pNode.next.left == pNode) {
+                return pNode.next;
+            }
+            pNode = pNode.next;
+        }
+        return null;
     }
 }
