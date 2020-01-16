@@ -64,7 +64,7 @@
 | 46 | [孩子们的游戏](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&tqId=11199&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T46.java) | 数学 |
 | 47 | [求1+2+3+...+n](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&tqId=11200&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T47.java) | 进制转换 |
 | 48 | [不用加减乘除做加法](https://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&tqId=11201&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T48.java) | 进制转换 |
-| [数组中的逆序对](./SwordOffer/T51.java) |  | [java](./SwordOffer/T51.java) |  |
+| 49 | [把字符串转成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&tqId=11202&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | [java](./SwordOffer/src/T49.java) | 字符串 |
 | [两个链表的第一个公共节点](./SwordOffer/T52.java) |  | [java](./SwordOffer/T52.java) |  |
 | [在排序数组中查找数字](./SwordOffer/T53.java) |  | [java](./SwordOffer/T53.java) |  |
 | [二叉搜索树的第K大节点](./SwordOffer/T54.java) |  | [java](./SwordOffer/T54.java) |  |
